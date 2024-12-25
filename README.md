@@ -27,15 +27,20 @@
   
 - ⚡ Fun fact **I have a passion for learning new things, especially those that challenge me to step out of my comfort zone. Whether it's diving into complex algorithms, exploring emerging technologies, or solving real-world problems, I thrive on challenges that push me to grow and innovate.**
 
-
+<!--Stack-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">💻 Tech Stack:</h1></summary>
   </ul>
 </div>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+<p align="center">
+  <a href="https://skillicons.dev" >
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,html,discord,eclipse,laravel,java,github,figma,powershell,py,php,gradle,tailwind,idea,js,kali,linux,mysql,nginx,nodejs,ps,pr,r,sqlite,unity,vscode" />
+  </a>
+</p>
 
+<!--Statsr-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">📊 GitHub Stats:</h1></summary>
@@ -61,13 +66,20 @@
     </a>
 </div>
 
+<!--social media-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">🌐 Socials:</h1></summary>
   </ul>
 </div>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aliimran.rodja.14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliimrnrdj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliimrnrdj) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aliimrnrdj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AliRodja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aliimranrodja7652) 
+<p align="center">
+<a href="https://x.com/AliRodja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alirodja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aliimrnrdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliimrnrdj" height="30" width="40" /></a>
+<a href="https://fb.com/aliimran.rodja.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aliimrnrdj" height="30" width="40" /></a>
+<a href="https://instagram.com/aliimrnrdj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliimrnrdj_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aliimranrodja7652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliimranrodja7652" height="30" width="40" /></a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AliRodja&icon=0&color=0)](https://visitcount.itsvg.in)
