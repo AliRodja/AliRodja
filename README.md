@@ -70,29 +70,6 @@ const ali: Developer = {
 
 ---
 
-## 📌 Featured Project
-
-<div align="center">
-
-### 🗂️ Sistem Informasi Pengelolaan Barang Inventaris
-
-> *Undergraduate Thesis Project · Teknik Informatika UNPAS*
-
-A web-based inventory management system built for the Informatics Engineering study program at UNPAS, replacing manual asset tracking with a fully digital, room-based asset management workflow.
-
-| Feature | Stack |
-|---|---|
-| Room-based asset grouping & barcode tracking | Next.js 15 + TypeScript |
-| Borrowing/return workflow with PDF letters & photo proof | Node.js + Express.js |
-| Automated periodic reporting | PostgreSQL |
-| SSR for performance & security | Tailwind CSS |
-
-**Methodology:** Prototyping · **Testing:** Black Box Testing
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
