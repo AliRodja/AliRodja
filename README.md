@@ -74,11 +74,28 @@ const ali: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliRodja&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliRodja&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alirodja&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirodja&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRodja&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=DC143C&langs_count=8" />
+</div>
 
+---
+### 🚀 Aktivitas GitHub Saya
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alirodja&theme=tokyonight&hide_border=true&area=true&custom_title=Aktivitas+Saya" 
+    alt="GitHub Activity Graph" 
+    width="100%"
+  />
+</p>
+
+---
+
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=alirodja&label=Profile+Visitors&color=00BFFF&style=flat-square" 
+    alt="Profile Visitors" 
+  />
 </div>
 
 ---
