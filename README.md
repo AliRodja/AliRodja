@@ -74,8 +74,21 @@ const ali: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alirodja&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirodja&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alirodja&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirodja&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirodja&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alirodja&theme=tokyonight&hide_border=true)](https://github.com/Lisvindanu)
 
 </div>
 
